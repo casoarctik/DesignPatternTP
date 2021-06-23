@@ -1,4 +1,4 @@
-package _1_decorator._99_exercice;
+package _1_decorator._99_exercice.withoutDecorator;
 
 /**
  * Interface pour une data source.

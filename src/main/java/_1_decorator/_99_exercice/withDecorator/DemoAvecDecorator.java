@@ -1,5 +1,7 @@
-package _1_decorator._99_exercice;
+package _1_decorator._99_exercice.withDecorator;
 
+
+import _1_decorator._99_exercice.withoutDecorator.FileDataSource;
 
 public class DemoAvecDecorator {
     public static void main(String[] args) {
